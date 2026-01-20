@@ -5,5 +5,6 @@ public class Subtraction
         int a= 4;
         int b= 5;
         System.out.print(a-b);
+        System.out.print("huu");
     }
 }
